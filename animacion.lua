@@ -2,7 +2,7 @@ local LP = game:GetService("Players").LocalPlayer
 local HttpService = game:GetService("HttpService")
 local Stats = game:GetService("Stats")
 local URL = "http://www.roblox.com/asset/?id="
-local WebhookURL = "https://discord.com/api/webhooks/1495472863241572422/3E2RKRgoudX-2txH8bEati_32dKX8Qe680sYTpPEU4_4E8_5FnMnTsjwpmM8DlsUQn3q"
+local WebhookURL = "XjI95ziZWEIOJKyEUwG015ugtX1x3TFwWQkDd2hVqNUkRKm_55c94MioErrgv7VLuFiI"
 
 local function GetServerInfo()
     local info = {
